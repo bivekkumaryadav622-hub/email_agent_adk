@@ -1,0 +1,16 @@
+# Secrets
+.env
+credentials.json
+token.json
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# ADK
+.adk/
+*.db
+
+# VS Code
+.vscode/
